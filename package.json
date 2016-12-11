@@ -1,0 +1,16 @@
+{
+  "name": "sierra-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A syntax theme inspired by the Sierra Nevada",
+  "keywords": [
+    "syntax",
+    "sierra",
+    "theme"
+  ],
+  "repository": "https://github.com/licatajustin/sierra-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
